@@ -1,0 +1,9 @@
+head, body, main, footer, .card {
+    background-color: #fffaf6;
+}
+
+.btn-xl {
+    padding: 10px 20px;
+    font-size: 20px;
+    width: 200px;
+}
